@@ -1,0 +1,51 @@
+PROGRAM        
+IDENT          (EXAMPLE2)
+SEMICOLON      
+VAR            
+IDENT          (A)
+COMMA          
+IDENT          (B)
+COMMA          
+IDENT          (C)
+SEMICOLON      
+PROCEDURE      
+IDENT          (GCD)
+LPARENT        
+IDENT          (A)
+SEMICOLON      
+IDENT          (B)
+SEMICOLON      
+VAR            
+IDENT          (D)
+RPARENT        
+SEMICOLON      
+BEGIN          
+WHILE          
+IDENT          (A)
+NEQ            
+IDENT          (B)
+DO             
+IF             
+IDENT          (A)
+GTR            
+IDENT          (B)
+THEN           
+IDENT          (A)
+ASSIGN         
+IDENT          (A)
+MINUS          
+IDENT          (B)
+SEMICOLON      
+ELSE           
+IDENT          (B)
+ASSIGN         
+IDENT          (B)
+MINUS          
+IDENT          (A)
+SEMICOLON      
+IDENT          (D)
+ASSIGN         
+IDENT          (B)
+END            
+PERIOD         
+NONE           

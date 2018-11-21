@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1540298805 source:/home/manhdt/PhuongPhapDich/baitapolop/BTL/main.cpp
+
+1540300869 source:/home/manhdt/PhuongPhapDich/baitapolop/BTL/lex.c
+	<stdio.h>
+	"lex.h"
+	<string.h>
+	<ctype.h>
+
+1540298670 /home/manhdt/PhuongPhapDich/baitapolop/BTL/scanner.h
+
+1540300781 source:/home/manhdt/PhuongPhapDich/baitapolop/BTL/main.c
+	"lex.h"
+	<stdio.h>
+
+1540300813 /home/manhdt/PhuongPhapDich/baitapolop/BTL/lex.h
+
+1542809836 source:/home/manh/PhuongPhapDich/baitapolop/BTL/lex.c
+	<stdio.h>
+	"lex.h"
+	<string.h>
+	<ctype.h>
+
+1542751152 /home/manh/PhuongPhapDich/baitapolop/BTL/lex.h
+
+1542823616 source:/home/manh/PhuongPhapDich/baitapolop/BTL/main.c
+	"lex.h"
+	"parSyntax.h"
+	<stdio.h>
+
+1542664001 /home/manh/PhuongPhapDich/baitapolop/BTL/parSyntax.h
+
+1542825158 source:/home/manh/PhuongPhapDich/baitapolop/BTL/parSyntax.c
+	<stdio.h>
+	"lex.h"
+
